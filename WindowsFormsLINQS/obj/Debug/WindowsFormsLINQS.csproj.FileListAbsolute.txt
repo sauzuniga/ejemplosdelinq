@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\bin\Debug\WindowsFormsLINQS.exe.config
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\bin\Debug\WindowsFormsLINQS.exe
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\bin\Debug\WindowsFormsLINQS.pdb
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\obj\Debug\WindowsFormsLINQS.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\obj\Debug\WindowsFormsLINQS.btnbuscar.resources
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\obj\Debug\WindowsFormsLINQS.Properties.Resources.resources
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\obj\Debug\WindowsFormsLINQS.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\obj\Debug\WindowsFormsLINQS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\obj\Debug\WindowsFormsLINQS.exe
+C:\Users\USER\source\repos\WindowsFormsLINQS\WindowsFormsLINQS\obj\Debug\WindowsFormsLINQS.pdb
